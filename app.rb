@@ -9,3 +9,7 @@ get '/kyo925' do
   'Hello kyo925!'
 end
 
+get '/Matsumoto-mm12' do
+  'Hello Matsumoto-mm12!'
+end
+
