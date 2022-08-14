@@ -19,3 +19,6 @@ get '/Matsumoto-mm12' do
 end
 
 
+get '/tommy-japan' do
+  'Hello tommy-japan!'
+end
