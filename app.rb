@@ -13,3 +13,6 @@ get '/Matsumoto-mm12' do
   'Hello Matsumoto-mm12!'
 end
 
+get '/tommy-japan' do
+  'Hello tommy-japan!'
+end
