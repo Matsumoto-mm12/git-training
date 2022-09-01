@@ -22,3 +22,7 @@ end
 get '/tommy-japan' do
   'Hello tommy-japan!'
 end
+
+get '/tamiwa' do
+  'Hello tamiwa!'
+end
